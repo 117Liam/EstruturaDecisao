@@ -1,2 +1,2 @@
-# EstruturaDecisao
-PSC - Estruturas de Decisão
+# EstruturaRepeticao
+PSC - Estruturas de Repetição
