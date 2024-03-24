@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Repetição02 {
+public class Repeticao02 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("Digite seu nome de usuário: ");
